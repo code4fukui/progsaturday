@@ -1,7 +1,7 @@
 # progsaturday
- 
-![きたちゃん](kitachan.png)
-![きたちゃん 太線](kitachan_b.png)
+
+きたちゃん <img src=kitachan.png width=64>
+きたちゃん 太線 <img src=kitachan_b.png width=128>
 ![ゆめぴょん](yumepyon.png)
 ![えだまめ](edamame.png)
 ![うさぎまん](usagiman.png)
