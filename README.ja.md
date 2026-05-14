@@ -1,10 +1,8 @@
 # progsaturday
 
-> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+プログラミング関連プロジェクト向けのキャラクターイラスト集です。
 
-A collection of character illustrations for programming-related projects.
-
-## Characters
+## キャラクター
 
 | きたちゃん (Kitachan) | ゆめぴょん (Yumepyon) |
 | :---: | :---: |
@@ -14,17 +12,17 @@ A collection of character illustrations for programming-related projects.
 | :---: | :---: |
 | <img src="edamame.png" width="128"> | <img src="usagiman_c.png" width="128"> |
 
-## Special Character
+## 特別キャラクター
 
-This character was created by a special contributor.
+このキャラクターは特別なコントリビューターによって制作されました。
 
 **たこだるま (Takodaruma)** by [自然派たこ焼き　たこだるま(@takodaruma111)](https://www.instagram.com/takodaruma111/)
 
 <img src="takodaruma.png" width="128">
 
-## Usage
+## 利用方法
 
-You can use the following PNG images from this repository in your projects. Please provide attribution as required by the license.
+本リポジトリの以下のPNG画像をプロジェクトでご利用いただけます。ライセンスの要件に従ってクレジットを表記してください。
 
 - `kitachan_b.png`
 - `yumepyon.png`
@@ -32,6 +30,6 @@ You can use the following PNG images from this repository in your projects. Plea
 - `usagiman_c.png`
 - `takodaruma.png`
 
-## License
+## ライセンス
 
 CC BY Code for FUKUI
